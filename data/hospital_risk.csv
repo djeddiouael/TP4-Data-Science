@@ -1,0 +1,9 @@
+Ville,Service,Age,JoursHospitalis,TarifJournalier,Satisfaction,Réadmission,CoûtTotal,GroupeÂge,CoûtÉlevé,NiveauSatisfaction,Classement,ScoreRisque,CatégorieRisque,CodeRégion
+Annaba,Orthopédie,70,6,160,3.5,Oui,960,Sénior,Non,Faible,6,42.9,Moyen,DZ-23
+Annaba,Neurologie,60,8,300,3.8,Oui,2400,Sénior,Non,Faible,2,39.8,Faible,DZ-23
+Oran,Neurologie,55,9,290,3.9,Oui,2610,Sénior,Non,Faible,1,38.400000000000006,Faible,DZ-31
+Alger,Cardiologie,50,7,220,4.0,Non,1540,Moyen,Non,Faible,3,35.8,Faible,DZ-16
+Alger,Cardiologie,45,5,200,4.5,Non,1000,Moyen,Non,Faible,5,32.0,Faible,DZ-16
+Oran,Neurologie,40,4,280,4.1,Oui,1120,Moyen,Non,Faible,4,31.299999999999997,Faible,DZ-31
+Oran,Orthopédie,30,3,150,4.2,Non,450,Moyen,Non,Faible,7,27.599999999999998,Faible,DZ-31
+Alger,Cardiologie,35,2,210,4.7,Non,420,Moyen,Non,Faible,8,27.2,Faible,DZ-16
